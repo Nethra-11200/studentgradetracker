@@ -1,6 +1,4 @@
-#CodeAlpha-studentgradetracker
-
-
+#🔗CodeAlpha-studentgradetracker
 🎓 Student Grade Tracker | CodeAlpha Internship Project
 
 📊 A simple Java console app to manage student grades with ease!
