@@ -1,1 +1,1 @@
-CodeAlpha_StudentGradeTracker
+CodeAlpha-student_grade-tracker
